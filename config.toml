@@ -84,7 +84,7 @@ attributes = "async"
 ########################### default parameters #################################
 [params]
 favicon = "images/favicon.png"
-logo = "images/FIAN_logo.svg"
+logo = "images/logo.svg"
 logo_width = "110px"
 logo_footer = "images/logo-footer.png"
 logo_footer_width = "180px"

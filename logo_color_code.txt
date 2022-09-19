@@ -1,5 +1,0 @@
-#0052e2  = blue
-
-
-
-#237fbc   = original logo blue
