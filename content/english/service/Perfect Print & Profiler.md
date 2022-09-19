@@ -22,6 +22,7 @@ type : service
 #### Perfect Print & Perfect Profiler
 
 ![perfect-print](/images/stairs-cad-cam/PPrint2.jpg)
+![perfect-print](/images/stairs-cad-cam/PProfiler.jpg)
 
 #### Features and Benefits
 
@@ -30,21 +31,25 @@ type : service
       rotated, tiled, overlapped so you can intuitively prepare the printing plan.
     
     Extensive support to input file formats:
-      Perfect Print allows you to use all common image files like BMP, JPG, GIF, 
-      TIF, DES, Post Script, EPS, PDF and enable you to creatively take advantage 
-      of different color spaces like : RGB, CMYK, L*a*b, Spot colors.
+      
+      Perfect Print allows you to use all common image files like BMP, JPG, GIF, TIF, 
+      DES, Post Script, EPS, PDF and enable you to creatively take advantage of 
+      different color spaces like : RGB, CMYK, L*a*b, Spot colors.
 
-    Output Superior Quality with Flexible Color Management Tools :
+    Output Superior Quality with Flexible Color Management Tools :     
+      
       Produce high quality output complete with complete calibration and color 
       management support based on industry standard ICC, coupled with Spot Color 
       replacement for manual adjustments. Perfect Print includes ICC output profiles 
       for all major media and inks and allows you to effortlessly reproduce colors 
       the way you imagined. Perfect Print will help you reproduce your colors 
       precisely, with smooth color transitions and enhanced details.
-    
-    Improve Production Workflow :
-      For faster output and economic use of your material, print jobs with any number 
-      of images can be created and saved for later reproduction. With advanced 
+
+    Improve Production Workflow :    
+
+      For faster output and economic use of your material, print jobs with any 
+      number of images can be created and saved for later reproduction. With advanced 
       functionality of features included in our print server such as Job Scheduling, 
       Job Priority and Smart Hot Folders, you can manage your workflow and increase 
       your productivity.
+
