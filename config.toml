@@ -83,13 +83,13 @@ attributes = "async"
 
 ########################### default parameters #################################
 [params]
-favicon = "images/favicon.png"
-logo = "images/logo.png"
+favicon = "images/logo.svg"
+logo = "images/logo.svg"
 logo_width = "110px"
-logo_footer = "images/logo-footer.png"
+logo_footer = "images/logo_footer.svg"
 logo_footer_width = "180px"
-mail = "info@companyname.com"
-mobile = "1234565523"
+mail = "contact@fiansystem.com"
+mobile = "+33 1 39 75 69 33"
 # Meta data
 description = "this is meta description"
 author = "themefisher"
@@ -121,9 +121,9 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 # google map
 [params.gmap]
 enable = true
-gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+gmap_api = "AIzaSyCG-YUVEhisb6SbE2HaXpx4ggBAB4TL0kg"
+map_latitude = "48.9377549219233"
+map_longitude = "1.9499420642963807"
 map_marker = "images/marker.png"
 
 
@@ -155,7 +155,7 @@ home = "Home"
 # footer content
 footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
 # copyright
-copyright = "Copyright &copy; 2019 a hugo theme by [themefisher.com](https://themefisher.com)"
+copyright = "Copyright © 2022 FIAN SYSTEM®"
 
 
 ###################### English navigation ####################
@@ -177,34 +177,9 @@ url = "service/"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Blog"
-url = "blog/"
-weight = 4
-
-[[Languages.en.menu.main]]
-name = "Team"
-url = "team/"
-weight = 5
-
-[[Languages.en.menu.main]]
 name = "Contact"
 url = "contact/"
 weight = 7
-
-[[Languages.en.menu.main]]
-weight = 8
-name = "Pages"
-hasChildren = true
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "Project"
-  url = "project/"
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "Pricing"
-  url = "pricing/"
 
 # footer menu
 [[Languages.en.menu.footer]]
@@ -238,7 +213,7 @@ home = "Accueil"
 # footer content
 footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
 # copyright
-copyright = "Copyright &copy; 2019 a hugo theme by [themefisher.com](https://themefisher.com)"
+copyright = "Copyright © 2022 FIAN SYSTEM®"
 
 
 ###################### French navigation ####################
@@ -250,8 +225,8 @@ url = "/"
 weight = 1
 
 [[Languages.fr.menu.main]]
-name = "About"
-url = "about/"
+name = "Products"
+url = "products/"
 weight = 2
 
 [[Languages.fr.menu.main]]
@@ -260,34 +235,9 @@ url = "service/"
 weight = 3
 
 [[Languages.fr.menu.main]]
-name = "Blog"
-url = "blog/"
-weight = 4
-
-[[Languages.fr.menu.main]]
-name = "Team"
-url = "team/"
-weight = 5
-
-[[Languages.fr.menu.main]]
 name = "Contact"
 url = "contact/"
 weight = 7
-
-[[Languages.fr.menu.main]]
-weight = 8
-name = "Pages"
-hasChildren = true
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "Project"
-  url = "project/"
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "Pricing"
-  url = "pricing/"
 
 # footer menu
 [[Languages.fr.menu.footer]]

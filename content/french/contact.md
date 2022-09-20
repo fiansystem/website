@@ -9,13 +9,13 @@ layout: "contact"
 contact_info:
 - name: "mobile"
   icon: "ti-mobile"
-  content: "+88 0123 456 789 <br> +88 987 654 3210"
+  content: "+33 1 39 75 69 33 <br> +33 1 39 75 67 74"
   
 - name: "mail"
   icon: "ti-email"
-  content: "info@biztrox.com <br> biztrox@email.com"
+  content: "contact@fiansystem.com"
   
 - name: "location"
   icon: "ti-map-alt"
-  content: "24/B Garden Street. <br> Northambia, Weals, UK"
+  content: "68 rue Croix de l'Orme </br> 78630 Morainvilliers </br>FRANCE"
 ---

@@ -104,7 +104,7 @@
 <!-- Google Map API -->
 {{ if eq .Permalink ("contact/" | absURL) }}
 {{ if site.Params.gmap.enable }}
-<script defer src="https://maps.googleapis.com/maps/api/js?key={{site.Params.gmap.gmap_api}}&libraries=places"></script>
+<script defer src="https://maps.googleapis.com/maps/api/js?key={{site.Params.gmap.gmap_api}}&libraries=places&callback=initMap"></script>
 {{ end }}
 {{ end }}
 
