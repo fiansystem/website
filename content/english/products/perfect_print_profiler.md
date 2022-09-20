@@ -16,8 +16,9 @@ type : service
 
 ### PERFECT PRINT
 
-> Perfect Print is the software solution for high productivity printing on large-format inkjet printers. It supports all common image file formats, contains complete color management system and provides all the necessary layout tools for production of digital printouts.
+#### Complete RIP and layout software. 
 
+> Perfect Print is the software solution for high productivity printing on large-format inkjet printers. It supports all common image file formats, contains complete color management system and provides all the necessary layout tools for production of digital printouts.
 
 #### Perfect Print & Perfect Profiler
 
@@ -30,14 +31,12 @@ type : service
       Each image in a job can be copied, scaled, positioned, cropped, 
       rotated, tiled, overlapped so you can intuitively prepare the printing plan.
     
-    Extensive support to input file formats:
-      
+    Extensive support to input file formats:      
       Perfect Print allows you to use all common image files like BMP, JPG, GIF, TIF, 
       DES, Post Script, EPS, PDF and enable you to creatively take advantage of 
       different color spaces like : RGB, CMYK, L*a*b, Spot colors.
 
-    Output Superior Quality with Flexible Color Management Tools :     
-      
+    Output Superior Quality with Flexible Color Management Tools :           
       Produce high quality output complete with complete calibration and color 
       management support based on industry standard ICC, coupled with Spot Color 
       replacement for manual adjustments. Perfect Print includes ICC output profiles 
@@ -46,7 +45,6 @@ type : service
       precisely, with smooth color transitions and enhanced details.
 
     Improve Production Workflow :    
-
       For faster output and economic use of your material, print jobs with any 
       number of images can be created and saved for later reproduction. With advanced 
       functionality of features included in our print server such as Job Scheduling, 

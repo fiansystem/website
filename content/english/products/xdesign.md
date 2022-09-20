@@ -14,14 +14,12 @@ offDay: Friday
 type : service
 ---
 
->XDesign provides superior tools for the creation and manipulation of printed textile designs. 
 
 ### XDESIGN
 
 ##### XDesign provides superior tools for the creation and manipulation of printed textile designs. 
 
-    XDesign uses and fully benefits from industry standard Photoshop platform 
-    in terms of compatibility, speed, ease of use and reliability. 
+>XDesign uses and fully benefits from industry standard Photoshop platform in terms of compatibility, speed, ease of use and reliability. 
 
 #### XDESIGN 
 
