@@ -1,6 +1,6 @@
 ######################### default configuration ###############################
-baseURL = "https://demo.gethugothemes.com/"
-title = "Biztrox"
+baseURL = "https://superlative-choux-ea58d9.netlify.app/"
+title = "Fian Design System"
 theme = "biztrox-hugo"
 # post pagination
 paginate = "6"
