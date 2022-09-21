@@ -44,3 +44,11 @@
   translation: Call Us Now
 - id: read_more
   translation: Read More
+- id: name
+  translation: Name
+- id: email_address
+  translation: Email Address
+- id: contact_message
+  translation: Your Message Here...
+- id: subscribe_email
+  translation: Enter Your Email

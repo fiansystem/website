@@ -153,7 +153,10 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # footer content
-footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
+footer_content = ""
+footer_subscribe_form_title = "Subscribe us"
+footer_subscribe_form_content = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
+
 # copyright
 copyright = "Copyright © 2022 FIAN SYSTEM®"
 
@@ -211,7 +214,10 @@ contentDir = "content/french"
 weight = 2
 home = "Accueil"
 # footer content
-footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
+footer_content = ""
+footer_subscribe_form_title = "Abonnez nous"
+footer_subscribe_form_content = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
+
 # copyright
 copyright = "Copyright © 2022 FIAN SYSTEM®"
 
@@ -220,12 +226,12 @@ copyright = "Copyright © 2022 FIAN SYSTEM®"
 
 # main menu
 [[Languages.fr.menu.main]]
-name = "Home"
+name = "Accueil"
 url = "/"
 weight = 1
 
 [[Languages.fr.menu.main]]
-name = "Products"
+name = "Produits"
 url = "products/"
 weight = 2
 
@@ -241,21 +247,21 @@ weight = 7
 
 # footer menu
 [[Languages.fr.menu.footer]]
-name = "Legal"
+name = "Juridique"
 url = "#/"
 weight = 1
 
 [[Languages.fr.menu.footer]]
-name = "Sitemap"
+name = "Plan du site"
 url = "#/"
 weight = 2
 
 [[Languages.fr.menu.footer]]
-name = "Privacy Policy"
+name = "Politique de confidentialité"
 url = "#/"
 weight = 3
 
 [[Languages.fr.menu.footer]]
-name = "Terms & Conditions"
+name = "Termes et Conditions"
 url = "#/"
 weight = 4

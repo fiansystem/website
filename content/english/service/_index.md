@@ -26,6 +26,6 @@ testimonial:
   # testimonial content comes from "_index.md" file
 ---
 
-## Our Best Services
+### Quality, product and process management for successful IT projects
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod <br> tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
+>Ten years of successful projects in distributed software, e-commerce and platform integration software allowed our engineers to capitalize on both technical and functional expertise

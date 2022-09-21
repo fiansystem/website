@@ -6,60 +6,60 @@ slider:
   # slider item loop
   - bg_image : images/banner/banner-1.jpg
     animation_from : left
-    subtitle : We are here to
-    title : Planning Business
+    subtitle : Nous Sommes Ici Pour
+    title : Planification <br> d'entreprise
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
     pagination_icon : ti-comments # themify icon pack : https://themify.me/themify-icons
     pagination_name : Consultation
     button:
       enable : true
-      label: More details
+      label: Plus de détails
       link : "about"
       
   # slider item loop
   - bg_image : images/banner/banner-2.jpg
     animation_from : up
-    subtitle : Get your
-    title : Business Consultant
+    subtitle : Obtenir votre
+    title : Consultant En Affaires
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
     pagination_icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
-    pagination_name : Marketing
+    pagination_name : Commercialisation
     button:
       enable : true
-      label: More details
+      label: Plus de détails
       link : "about"
       
   # slider item loop
   - bg_image : images/banner/banner-3.jpg
     animation_from : down
-    subtitle : Start your
-    title : Future Plan
+    subtitle : Démarrez Votre
+    title : Plan d'avenir
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
     pagination_icon : ti-money # themify icon pack : https://themify.me/themify-icons
     pagination_name : Finance
     button:
       enable : true
-      label: More details
+      label: Plus de détails
       link : "about"
       
   # slider item loop
   - bg_image : images/banner/banner-4.jpg
     animation_from : right
-    subtitle : We are always
-    title : Be Inspired By Best
+    subtitle : Nous Sommes Toujours
+    title : Laissez-vous Inspirer Par Le Meilleur
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
     pagination_icon : ti-package # themify icon pack : https://themify.me/themify-icons
-    pagination_name : Human Resources
+    pagination_name : Ressources Humaines
     button:
       enable : true
-      label: More details
+      label: Plus de détails
       link : "about"
 
 ########################################## Service ####################################
 service:
   enable : true
-  title: "Service We Provide"
-  subtitle: "Best Service"
+  title: "Service que nous fournissons"
+  subtitle: "Meilleur service"
   section: "service" # showing items from service section
   # service item comes from "content/service" folder
 
@@ -67,7 +67,7 @@ service:
 about:
   enable : true
   bg_image : "images/background/about-bg.jpg"
-  title : "Who We Are?"
+  title : "Qui nous sommes?"
   content : "Excepteur sint occaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum."
   # bullet point
   bullet_point:
@@ -85,8 +85,8 @@ about:
 ##################################### Skill ##############################################
 skill:
   enable : true
-  subtitle : Our Skills
-  title : Why Choose Us
+  subtitle : Nos Compétences
+  title : Pourquoi Nous Choisir
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed eiusmod tempor incididunt laboris nisi ut aliquip ex ea commodo consequat. <br><br> Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur. Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum. sed perspiciatis unde omnisiste natus error sit voluptatem accusantium.doloremque ladantium totam rem aperieaque ipsa quae ab illo inventore.veritatis. et quasi architecto beatae vitae dicta sunt explicabo.
   # funfacts
   funfacts :
@@ -104,13 +104,13 @@ skill:
 
   # progressbar
   progressbar : 
-  - title : Branding
+  - title : l'image de Marque
     progress : 85%
     
-  - title : Consulting
+  - title : Consultant
     progress : 90%
     
-  - title : Business
+  - title : Entreprise
     progress : 75%
     
   - title : Promotion
@@ -119,16 +119,16 @@ skill:
 ########################################## project ####################################
 project:
   enable : true
-  title: "Latest Projects"
-  subtitle: "Our Works"
+  title: "Dernier Projets"
+  subtitle: "Nos Travaux"
   section: "project" # showing items from project section
   # project item comes from "content/project" folder
 
 ########################################### Mission ###################################
 mission:
   enable : true
-  subtitle : Our Goal
-  title : Company Mission
+  subtitle : Notre Objectif
+  title : Mission de l'entreprise
   content : Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor didunt laboris nisi ut aliquip ex ea commodo consequat.
   image : images/chart.png
   accordion:
@@ -144,7 +144,7 @@ mission:
 ##################################### Promo video ####################################
 promo_video:
   enable : true
-  title : "We Are Alawys <br> Comited"
+  title : "Nous Sommes Toujours <br> Engagés"
   bg_image : "images/background/promo-video.jpg"
   video_URL : "https://www.youtube.com/watch?v=jrkvirglgaQ"
   video_title : "Lorem ipsum dolor <br> sit amet con."
@@ -153,7 +153,7 @@ promo_video:
 testimonial:
   enable : true
   subtitle : Clients
-  title : What client Say
+  title : Ce Que Dit Le Client
   image : images/client.png
   testimonial_item :
   - name : Julia Robertson
@@ -175,14 +175,14 @@ call_to_action:
   title : "Biztrox give the smart solution for your business"
   button:
     enable : true
-    label : "get a quote"
+    label : "obtenir un devis"
     link : "contact"
       
 ########################################## blog ####################################
 blog:
   enable : true
-  title: "Company News"
-  subtitle: "Latest News"
+  title: "Nouvelles De La Société"
+  subtitle: "Dernières Nouvelles"
   section: "blog"
   # blog item comes from "content/blog" folder
   

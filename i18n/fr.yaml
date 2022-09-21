@@ -1,46 +1,54 @@
 - id: nav_button
-  translation: obtenir un devis
+  translation: Obtenir un devis
 - id: services
   translation: Services
 - id: quick_links
-  translation: Quick Links
+  translation: Liens rapides
 - id: contact_us
-  translation: Contact Us
+  translation: Nous Contacter
 - id: contact_form
-  translation: Contact Form
+  translation: Formulaire de contact
 - id: submit
-  translation: Submit
+  translation: Soumettre
 - id: buy_now
-  translation: Buy Now
+  translation: Acheter maintenant
 - id: service_brochure
-  translation: Service Brochure
+  translation: Brochure de services
 - id: download_pdf
-  translation: Download pdf
+  translation: Télécharger le PDF
 - id: opening_hours
-  translation: Opening Hours
+  translation: Horaires d'ouvertures
 - id: contact_info
-  translation: Contact Information
+  translation: Coordonnées
 - id: follow_on_social
-  translation: Follow on Social
+  translation: Suivez sur les réseaux sociaux
 - id: cv
-  translation: Professional CV
+  translation: CV professionnel
 - id: overview
-  translation: Overview
+  translation: Aperçu
 - id: project_name
-  translation: Project Name
+  translation: Nom du Projet
 - id: live_demo
-  translation: Watch Live Demo
+  translation: Regarder la démo en direct
 - id: case_study
-  translation: Complete Case Study
+  translation: Étude de cas complète
 - id: free_consultation
   translation: Request Free Consultation
 - id: all
-  translation: All
+  translation: Tout(e)
 - id: posted_by
-  translation: Posted By
+  translation: Posté par
 - id: share
-  translation: Share
+  translation: Partager
 - id: call_now
-  translation: Call Us Now
+  translation: Appelez-nous maintenant
 - id: read_more
-  translation: Read More
+  translation: Lire la suite
+- id: name
+  translation: Nom
+- id: email_address
+  translation: Adresse e-mail
+- id: contact_message
+  translation: Votre message ici...
+- id: subscribe_email
+  translation: Entrer votre Email

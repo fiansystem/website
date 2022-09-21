@@ -51,14 +51,18 @@
 				{{ if .enable }}
 				<div class="col-lg-3">
 					<div class="mt-5 mt-lg-0 text-center text-md-left">
-						<h4 class="mb-4 text-white">{{ .title | markdownify }}</h4>
-						<p class="text-white mb-4">{{ .content | markdownify }}</p>
+						{{ with site.Params.footer_subscribe_form_title }}
+							<h4 class="mb-4 text-white">{{ . | markdownify }}</h4>
+						{{end}}
+						{{ with site.Params.footer_subscribe_form_content }}
+							<p class="text-white mb-4">{{ . | markdownify }}</p>
+						{{end}}
 						<div id="mc_embed_signup">
 							<form action="{{ .mailchimp_form_action }}" method="post" id="mc-embedded-subscribe-form"
 								name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 								<div id="mc_embed_signup_scroll" class="position-relative">
 									<input type="email" name="EMAIL" class="required email form-control subscribe" id="mce-EMAIL"
-										placeholder="Enter Your Email" required>
+										placeholder={{i18n "subscribe_email" }} required>
 									<button class="btn-subscribe" type="submit" name="subscribe">
 										<i class="ti-arrow-right"></i>
 									</button>
