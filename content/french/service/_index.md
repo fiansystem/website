@@ -26,6 +26,7 @@ testimonial:
   # testimonial content comes from "_index.md" file
 ---
 
-## Our Best Services
+### Applications robustes, adaptables et stables, avec une garantie de qualité dans un cadre de gestion de projet
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod <br> tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
+>Nos équipes développent une expertise dans les technologies de pointe telles que les architectures distribuées, le commerce électronique, l’intégration des différents systèmes et plates-formes existantes. Toutes ces compétences, alliées à une bonne connaissance fonctionnelle, métier et de gestion de projets, sont réunies pour le succès de vos projets informatiques.
+
